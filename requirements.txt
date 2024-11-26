@@ -1,0 +1,5 @@
+guardrails-ai
+presidio-analyzer
+presidio-anonymizer
+guardrails-ai[api]
+Flask[async]==3.0.3
